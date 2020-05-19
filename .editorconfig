@@ -1,0 +1,18 @@
+# top-most EditorConfig file
+root = true
+
+# For all JS/TS under src directory
+[src/**.{js,ts}]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Matches the exact files either package.json
+[{package.json,webpack.config.js}]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
