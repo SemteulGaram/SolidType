@@ -2,7 +2,7 @@
   "name": "solid-type",
   "version": "1.0.0",
   "description": "🧱 Meticulous schema type restrictor for Javascript, Typescript object or JSON",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^14.0.1",

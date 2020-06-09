@@ -1,11 +1,14 @@
 # SolidType
 🧱 Meticulous schema type restrictor for Javascript, Typescript object or JSON
 
-## WIP
+## 🚧 WIP
+- This project is Work In Progress
+
+[Document](./docs/index.md)
 
 ## Note
 ```
-// Schema
+// Schema example
 {
   prop1: 'string',
   prop2: {
